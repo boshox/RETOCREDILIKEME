@@ -1,0 +1,14 @@
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\RETO_CREDILIKEME.dll.config
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\RETO_CREDILIKEME.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\RETO_CREDILIKEME.pdb
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\Newtonsoft.Json.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Net.Http.Formatting.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Web.Http.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Web.Http.WebHost.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\Newtonsoft.Json.xml
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Net.Http.Formatting.xml
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Web.Http.xml
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\bin\System.Web.Http.WebHost.xml
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\obj\Release\RETO_CREDILIKEME.csprojResolveAssemblyReference.cache
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\obj\Release\RETO_CREDILIKEME.dll
+C:\Users\earteaga\documents\visual studio 2013\Projects\RETO_CREDILIKEME\RETO_CREDILIKEME\obj\Release\RETO_CREDILIKEME.pdb
